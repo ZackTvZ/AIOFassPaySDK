@@ -1,0 +1,27 @@
+PODS:
+  - AIOFassPaySDK (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AIOFassPaySDK (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AIOFassPaySDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AIOFassPaySDK: 353a046481819f807e4e50090faa045d6647dcb0
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 6ffcba13bf64661365404db424d5f2140dcaad51
+
+COCOAPODS: 1.10.0

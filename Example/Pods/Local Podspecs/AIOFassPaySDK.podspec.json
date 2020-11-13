@@ -1,0 +1,22 @@
+{
+  "name": "AIOFassPaySDK",
+  "version": "0.1.0",
+  "summary": "A short description of AIOFassPaySDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zack/AIOFassPaySDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zack": "zacktvz@hotmail.my"
+  },
+  "source": {
+    "git": "https://github.com/Zack/AIOFassPaySDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AIOFassPaySDK/Classes/**/*"
+}

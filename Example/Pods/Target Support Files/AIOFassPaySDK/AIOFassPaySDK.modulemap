@@ -1,0 +1,6 @@
+framework module AIOFassPaySDK {
+  umbrella header "AIOFassPaySDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
